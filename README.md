@@ -1,4 +1,4 @@
-OpenClassrooms-P4-LaPanthere
+OpenClassrooms-P4 - La Panthere
 
 La Panthère - Agence de webdesign à Lyon.
 
